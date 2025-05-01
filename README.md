@@ -1,4 +1,4 @@
-# 📇 Contact Management System
+# Contact Management System 📇
 
 ## Description
 A Python-based command-line application for managing personal contacts with persistent JSON storage.
